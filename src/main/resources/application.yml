@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: osys-cli
+picocli:
+  ansi:
+    console:
+      enabled: true
+
