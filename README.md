@@ -60,7 +60,7 @@ $ sdk use java 17.0.9-graalce
 
 Using java version 17.0.9-graalce in this shell.
 
-$ native-image -jar build/libs/stackoverflow-cli-*-all.jar
+$ native-image -jar build/libs/osys-cli-*-all.jar
 
 ========================================================================================================================
 GraalVM Native Image: Generating 'osys-cli' (executable)...
